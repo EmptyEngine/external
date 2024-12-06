@@ -1,0 +1,48 @@
+[submodule "argparse"]
+	path = argparse
+	url = https://github.com/EmptyEngine/argparse.git
+[submodule "assimp"]
+	path = assimp
+	url = https://github.com/EmptyEngine/assimp.git
+[submodule "corrosion"]
+	path = corrosion
+	url = https://github.com/EmptyEngine/corrosion.git
+[submodule "half"]
+	path = half
+	url = https://github.com/EmptyEngine/half.git
+[submodule "harfbuzz"]
+	path = harfbuzz
+	url = https://github.com/EmptyEngine/harfbuzz.git
+[submodule "icu4x"]
+	path = icu4x
+	url = https://github.com/EmptyEngine/icu4x.git
+[submodule "lz4"]
+	path = lz4
+	url = https://github.com/EmptyEngine/lz4.git
+[submodule "miniaudio"]
+	path = miniaudio
+	url = https://github.com/EmptyEngine/miniaudio.git
+[submodule "ozz-animation"]
+	path = ozz-animation
+	url = https://github.com/EmptyEngine/ozz-animation.git
+[submodule "reactphysics3d"]
+	path = reactphysics3d
+	url = https://github.com/EmptyEngine/reactphysics3d.git
+[submodule "recastnavigation"]
+	path = recastnavigation
+	url = https://github.com/EmptyEngine/recastnavigation.git
+[submodule "rtm"]
+	path = rtm
+	url = https://github.com/EmptyEngine/rtm.git
+[submodule "simdutf"]
+	path = simdutf
+	url = https://github.com/EmptyEngine/simdutf.git
+[submodule "unordered_dense"]
+	path = unordered_dense
+	url = https://github.com/EmptyEngine/unordered_dense.git
+[submodule "freetype"]
+	path = freetype
+	url = https://github.com/EmptyEngine/freetype.git
+[submodule "VulkanMemoryAllocator"]
+	path = VulkanMemoryAllocator
+	url = https://github.com/EmptyEngine/VulkanMemoryAllocator.git
